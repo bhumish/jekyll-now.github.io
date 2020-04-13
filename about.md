@@ -10,7 +10,7 @@ I am a Security Analyst with a passion in Application Security, Computer Network
 
 ### Contact me
 
-[bhumish@live.com](mailto:bhumish@live.com) OR [bhumishx@gmail.com](mailto:bhumishx@gmail.com)
+[bhumish@live.com](mailto:bhumish@live.com), [bhumishx@gmail.com](mailto:bhumishx@gmail.com)
 
 ----
 
