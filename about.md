@@ -6,11 +6,13 @@ permalink: /about/
 
 I am a Security Analyst with a passion in Application Security, Computer Networks and Log Analytics. Hobbies include cycling, soft trance music and learning about trains.
 
+----
+
 ### Contact me
 
-[bhumish@live.com](mailto:bhumish@live.com)
+[bhumish@live.com](mailto:bhumish@live.com) | [bhumishx@gmail.com](mailto:bhumishx@gmail.com)
 
-[bhumishx@gmail.com](mailto:bhumishx@gmail.com)
+----
 
 ### Achievements
 
