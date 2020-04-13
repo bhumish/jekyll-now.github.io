@@ -11,13 +11,13 @@ There is a flaw in this mechanism. By using this flaw, anybody can login to anyb
 
 What’s the harm (or profit) in entering someone else’s account? By knowing/guessing a phone number, from their account I can view details like –
 
-    Full name
-    Email-id
-    Address (Home/Office/Business)
-    Order Details
-    AMC Details
-    Service Request Details
-    Download Invoices
+* Full name
+* Email-id
+* Address (Home/Office/Business)
+* Order Details
+* AMC Details
+* Service Request Details
+* Download Invoices
 
 Not just view, I can also edit the customers details. Just a scenario – I am out of my AMC duration, so I login to some account who has paid for the AMC, change their address to my address and later log a Service-Request to do the servicing (for free)! Another scenario is, fraudsters can harvest this data for selling.
 
