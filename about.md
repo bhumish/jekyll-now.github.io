@@ -8,12 +8,6 @@ I am a Security Analyst with a passion in Application Security, Computer Network
 
 ----
 
-### Contact me
-
-[bhumish@live.com](mailto:bhumish@live.com), [bhumishx@gmail.com](mailto:bhumishx@gmail.com)
-
-----
-
 ### Achievements
 
 #### Reported a data-leak via misconfigured S3 AWS bucket for xyz (April 2020)
